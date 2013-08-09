@@ -1,0 +1,467 @@
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T14:20:29.852Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T14:20:29.853Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T14:20:29.854Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T14:20:29.854Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T14:20:29.854Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T14:20:31.721Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T14:20:31.722Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T14:20:31.723Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T14:20:31.723Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T14:20:31.723Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:13:21.973Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:13:21.974Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:13:21.975Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:13:21.978Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:13:21.979Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:13:23.365Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:13:23.366Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:13:23.367Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:13:23.371Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:13:23.371Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:21:56.330Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:21:56.331Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:21:56.332Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:21:56.335Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:21:56.335Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:21:57.679Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:21:57.680Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:21:57.680Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:21:57.684Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:21:57.684Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:26:29.131Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:26:56.296Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:26:59.047Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:28:56.215Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:29:05.052Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:29:07.877Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:34:38.233Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:34:38.234Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:34:38.234Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:34:38.246Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:34:38.246Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:34:39.605Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:34:39.606Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:34:39.607Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:34:39.619Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:34:39.619Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":4095}","timestamp":"2013-08-08T15:36:37.264Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":727}","timestamp":"2013-08-08T15:36:39.566Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":726}","timestamp":"2013-08-08T15:36:39.584Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":1011}","timestamp":"2013-08-08T15:36:39.646Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":1122}","timestamp":"2013-08-08T15:36:39.655Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":1295}","timestamp":"2013-08-08T15:36:40.087Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":4337}","timestamp":"2013-08-08T15:36:40.225Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":3108}","timestamp":"2013-08-08T15:36:40.361Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":6929}","timestamp":"2013-08-08T15:36:40.382Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":5181}","timestamp":"2013-08-08T15:36:40.405Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":9195}","timestamp":"2013-08-08T15:36:40.789Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:38:09.129Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:39:53.207Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:39:53.208Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:39:53.209Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:39:53.220Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:39:53.220Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:39:54.573Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:39:54.574Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:39:54.574Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:39:54.585Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:39:54.585Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":108}","timestamp":"2013-08-08T15:39:57.367Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:43:34.107Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:43:34.107Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:43:34.108Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:43:34.124Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:43:34.124Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:43:35.512Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:43:35.513Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:43:35.513Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:43:35.525Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:43:35.525Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:45:00.683Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:45:00.684Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:45:00.685Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:45:00.696Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:45:00.696Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:45:02.023Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:45:02.024Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:45:02.024Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:45:02.035Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:45:02.035Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":538}","timestamp":"2013-08-08T15:45:10.122Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:45:35.837Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:45:35.838Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:45:35.839Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:45:35.850Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:45:35.850Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:45:37.262Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:45:37.263Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:45:37.264Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:45:37.275Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:45:37.275Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:45:40.600Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":108}","timestamp":"2013-08-08T15:45:58.305Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:46:18.601Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:46:18.602Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:46:18.602Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:46:18.614Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:46:18.614Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:46:20.016Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:46:20.017Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:46:20.018Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:46:20.029Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:46:20.029Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T15:46:23.185Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:47:00.268Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:47:00.269Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:47:00.270Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:47:00.282Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:47:00.282Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:47:01.817Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:47:01.818Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:47:01.818Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:47:01.830Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:47:01.830Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:47:03.331Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:47:31.970Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:47:55.597Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:48:39.258Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:48:39.259Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:48:39.259Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:48:39.270Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:48:39.271Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:48:40.682Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:48:40.683Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:48:40.683Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:48:40.694Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:48:40.695Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:48:55.611Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":108}","timestamp":"2013-08-08T15:49:13.391Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":108}","timestamp":"2013-08-08T15:49:16.350Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":108}","timestamp":"2013-08-08T15:49:28.672Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:51:00.179Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:51:00.179Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:51:00.180Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:51:00.191Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:51:00.191Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T15:51:01.595Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T15:51:01.596Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T15:51:01.597Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T15:51:01.608Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T15:51:01.608Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:51:07.853Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:51:12.029Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:51:31.597Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:51:43.869Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T15:52:01.780Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":397}","timestamp":"2013-08-08T15:52:19.953Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T16:39:51.639Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T16:48:44.614Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T16:48:44.615Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T16:48:44.616Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T16:48:44.628Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T16:48:44.628Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T16:48:46.152Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T16:48:46.152Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T16:48:46.153Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T16:48:46.165Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T16:48:46.165Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":538}","timestamp":"2013-08-08T16:48:49.181Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":538}","timestamp":"2013-08-08T16:52:23.322Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":538}","timestamp":"2013-08-08T16:52:26.232Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":538}","timestamp":"2013-08-08T16:58:56.315Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:57:02.144Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:57:02.145Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:57:02.146Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:57:02.158Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:57:02.158Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:57:03.619Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:57:03.620Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:57:03.621Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:57:03.632Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:57:03.633Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T17:57:15.237Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T17:58:09.576Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T17:58:10.948Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:58:46.173Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:58:46.173Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:58:46.174Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:58:46.185Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:58:46.185Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:58:47.600Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:58:47.601Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:58:47.602Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:58:47.613Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:58:47.613Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T17:58:50.538Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T17:59:04.945Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":881}","timestamp":"2013-08-08T17:59:18.139Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:59:24.843Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:59:24.844Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:59:24.845Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:59:24.856Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:59:24.857Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T17:59:26.251Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T17:59:26.252Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T17:59:26.253Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T17:59:26.264Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T17:59:26.264Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":881}","timestamp":"2013-08-08T17:59:27.343Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:08:07.734Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:08:07.737Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:08:07.738Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:08:07.750Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:08:07.750Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:08:09.180Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:08:09.180Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:08:09.181Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:08:09.193Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:08:09.193Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":536}","timestamp":"2013-08-08T18:08:28.879Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:08:51.948Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:08:51.949Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:08:51.950Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:08:51.962Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:08:51.963Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:08:53.365Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:08:53.366Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:08:53.366Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:08:53.378Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:08:53.378Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-08T18:08:55.843Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:09:23.953Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:09:23.954Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:09:23.954Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:09:23.968Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:09:23.968Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:09:25.293Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:09:25.293Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:09:25.294Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:09:25.306Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:09:25.306Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:09:53.380Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:11:32.664Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:11:32.665Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:11:32.666Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:11:32.679Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:11:32.679Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:11:34.028Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:11:34.029Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:11:34.029Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:11:34.042Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:11:34.042Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":881}","timestamp":"2013-08-08T18:12:13.531Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:22:16.923Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:22:19.017Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:38:24.578Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:38:24.579Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:38:24.579Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:38:24.592Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:38:24.593Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:38:26.019Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:38:26.020Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:38:26.020Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:38:26.034Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:38:26.034Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":78}","timestamp":"2013-08-08T18:39:17.561Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:39:44.717Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:39:44.718Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:39:44.718Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:39:44.731Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:39:44.732Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T18:39:46.123Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T18:39:46.124Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T18:39:46.124Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T18:39:46.138Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T18:39:46.138Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:39:48.379Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:39:55.048Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:40:20.292Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":881}","timestamp":"2013-08-08T18:40:20.318Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:40:45.121Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":881}","timestamp":"2013-08-08T18:41:02.576Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:44:46.331Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:44:57.128Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:45:16.453Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:45:31.613Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:51:25.743Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:51:45.594Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":55}","timestamp":"2013-08-08T18:51:45.611Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:52:25.835Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:52:39.914Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":55}","timestamp":"2013-08-08T18:52:39.931Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":732}","timestamp":"2013-08-08T18:54:18.493Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":55}","timestamp":"2013-08-08T18:54:18.507Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:55:26.934Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:55:26.980Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:55:38.437Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:55:44.902Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:56:08.296Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:56:14.892Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:56:42.928Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:56:58.822Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:56:58.842Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:57:00.449Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:57:00.473Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T18:57:28.386Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T18:57:28.406Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T19:00:35.277Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T19:00:35.305Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T19:03:11.845Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T19:03:11.867Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:06:04.830Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:06:04.831Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:06:04.831Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:06:04.845Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:06:04.849Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:06:06.247Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:06:06.248Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:06:06.248Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:06:06.262Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:06:06.266Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:07:29.423Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:07:29.424Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:07:29.425Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:07:29.438Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:07:29.442Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:07:30.867Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:07:30.867Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:07:30.868Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:07:30.881Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:07:30.885Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:00.743Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:00.744Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:00.744Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:00.758Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:00.762Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:02.131Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:02.132Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:02.132Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:02.146Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:02.150Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:34.621Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:34.622Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:34.622Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:34.635Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:34.640Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T19:09:34.703Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:36.056Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:36.057Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:36.057Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:36.070Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:36.075Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T19:09:36.139Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T19:09:36.577Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T19:09:36.611Z"}
+{"level":"info","message":"User's request size is 180, response size is 566","timestamp":"2013-08-08T19:09:36.611Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:53.859Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:53.860Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:53.860Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:53.878Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:53.882Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:09:55.301Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:09:55.302Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:09:55.302Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:09:55.316Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:09:55.321Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:11:16.054Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:11:16.055Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:11:16.056Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:11:16.069Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:11:16.073Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:11:17.516Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:11:17.517Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:11:17.518Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:11:17.532Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:11:17.536Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:11:59.038Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:11:59.038Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:11:59.039Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:11:59.054Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:11:59.059Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T19:11:59.116Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T19:12:00.500Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T19:12:00.501Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T19:12:00.501Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T19:12:00.515Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T19:12:00.520Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T19:12:00.582Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T19:12:03.850Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-08T19:12:03.870Z"}
+{"level":"info","message":"User's request size is 180, response size is 566","timestamp":"2013-08-08T19:12:03.871Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":3182}","timestamp":"2013-08-08T19:16:25.025Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":306}","timestamp":"2013-08-08T20:37:36.840Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":3182}","timestamp":"2013-08-08T20:37:41.326Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":741}","timestamp":"2013-08-08T20:38:05.461Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":741}","timestamp":"2013-08-08T20:38:05.753Z"}
+{"level":"info","message":"{\"reqSize\":255,\"resSize\":3166}","timestamp":"2013-08-08T20:39:07.785Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:20:59.140Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:20:59.141Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:20:59.141Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:20:59.155Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:20:59.160Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:20:59.218Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:21:00.669Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:21:00.670Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:21:00.670Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:21:00.684Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:21:00.689Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:21:00.752Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:07.708Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:09.405Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:18.258Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:28.230Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:29.479Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:50.080Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:51.321Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:57.597Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:21:58.804Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:22:07.272Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:22:22.270Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:22:22.271Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:22:22.271Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:22:22.289Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:22:22.294Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:22:22.349Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:22:23.662Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:22:23.663Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:22:23.663Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:22:23.677Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:22:23.682Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:22:23.746Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:22:25.820Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:23:34.510Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:23:34.511Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:23:34.511Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:23:34.525Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:23:34.530Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:23:34.594Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:23:35.924Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:23:35.925Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:23:35.926Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:23:35.959Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:23:35.981Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:23:36.093Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:23:37.492Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:23:38.541Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:23:50.586Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:23:50.587Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:23:50.587Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:23:50.600Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:23:50.605Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:23:50.668Z"}
+{"level":"info","message":"Loading config from /home/wwang/Dev/github/wilwang/qlioExample/config/dev.json","timestamp":"2013-08-08T21:23:52.331Z"}
+{"level":"info","message":"Loading connectors from /home/wwang/Dev/github/wilwang/qlioExample/connectors","timestamp":"2013-08-08T21:23:52.331Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/tables/","timestamp":"2013-08-08T21:23:52.332Z"}
+{"level":"info","message":"Loading tables from /home/wwang/Dev/github/wilwang/qlioExample/routes/","timestamp":"2013-08-08T21:23:52.358Z"}
+{"level":"info","message":"Loading xformers from /home/wwang/Dev/github/wilwang/qlioExample/config/xformers.json","timestamp":"2013-08-08T21:23:52.363Z"}
+{"level":"info","message":"Adding route /transactioncomponent for get","timestamp":"2013-08-08T21:23:52.465Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:23:54.472Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:23:55.907Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-08T21:23:57.971Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-09T17:49:02.679Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-09T17:49:33.621Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-09T17:49:41.187Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-09T17:51:38.572Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":720}","timestamp":"2013-08-09T17:52:36.018Z"}
+{"level":"info","message":"{\"reqSize\":247,\"resSize\":869}","timestamp":"2013-08-09T17:52:36.049Z"}
+{"level":"info","message":"{\"reqSize\":246,\"resSize\":344}","timestamp":"2013-08-09T17:59:54.337Z"}
